@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Maximiliano Rojas
+- 👀 I’m interested in fivem framework programing.
+- 🌱 I’m currently learning: python, c#, java and visual basic.
+- 💞️ I’m looking to collaborate on projects in fivem and other projects.
+- 📫 How to reach me Maste C#3462 on discord.
